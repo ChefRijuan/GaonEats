@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "GaonEats",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "GaonEats",
+  "start_url": "/",
+  "theme_color": "#ff7a00",
+  "id": "gaon-eats",
+  "description": "Your local food, just a tap away.",
+  "lang": "en"
+}
